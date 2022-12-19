@@ -55,7 +55,7 @@
 <a href="https://instagram.com/mayejacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayejacob" height="30" width="40" /></a>
 <a href="https://medium.com/@mayejacob" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mayejacob" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mayeconcept" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayeconcept" height="30" width="40" /></a>
-<a href="/www.mayeconcept.com.ng/rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.mayeconcept.com.ng/rss" height="30" width="40" /></a>
+<a href="/www.mayeconcept.com.ng/rss-feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.mayeconcept.com.ng/rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
