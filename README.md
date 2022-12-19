@@ -41,6 +41,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Online course web application with Laravel and Vue Js](online-course-web-application-with-laravel-and-vue-js)
+- [Different Type of Loops in PHP](different-type-of-loops-in-php)
+- [HTTP status codes for developers](http-status-codes-for-developers)
+- [Creating custom helper functions in Laravel](creating-custom-helper-functions-in-laravel)
+- [Creating multi authentication in laravel PHP framework 2022](creating-multi-authentication-in-laravel-php-framework-2022)
+- [Finding lasting solution to spamming in form](finding-lasting-solution-to-spamming-in-form)
+- [Common mistakes made by php developers](common-mistakes-made-by-php-developers)
+- [How do you feel about Mayeconcept web services](how-do-you-feel-about-mayeconcept-web-services)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
