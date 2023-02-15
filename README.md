@@ -41,6 +41,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[PHP] Paystack payment integration using webhook](https://mayeconcept.com.ng/post/php-paystack-payment-integration-using-webhook)
 - [Paystack payment integration with laravel](https://mayeconcept.com.ng/post/paystack-payment-integration-with-laravel)
 - [Online course web application with Laravel and Vue Js](https://mayeconcept.com.ng/post/online-course-web-application-with-laravel-and-vue-js)
 - [Different Type of Loops in PHP](https://mayeconcept.com.ng/post/different-type-of-loops-in-php)
@@ -48,7 +49,6 @@
 - [Creating custom helper functions in Laravel](https://mayeconcept.com.ng/post/creating-custom-helper-functions-in-laravel)
 - [Creating multi authentication in laravel PHP framework 2022](https://mayeconcept.com.ng/post/creating-multi-authentication-in-laravel-php-framework-2022)
 - [Finding lasting solution to spamming in form](https://mayeconcept.com.ng/post/finding-lasting-solution-to-spamming-in-form)
-- [Common mistakes made by php developers](https://mayeconcept.com.ng/post/common-mistakes-made-by-php-developers)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
