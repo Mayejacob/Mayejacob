@@ -41,14 +41,14 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [[Update] Laravel 10 return type error in Controller](https://mayeconcept.com.ng/post/update-laravel-10-return-type-error-in-controller)
+- [What is Laravel Stub](https://mayeconcept.com.ng/post/what-is-laravel-stub)
 - [[PHP] Paystack payment integration using webhook](https://mayeconcept.com.ng/post/php-paystack-payment-integration-using-webhook)
 - [Paystack payment integration with laravel](https://mayeconcept.com.ng/post/paystack-payment-integration-with-laravel)
 - [Online course web application with Laravel and Vue Js](https://mayeconcept.com.ng/post/online-course-web-application-with-laravel-and-vue-js)
 - [Different Type of Loops in PHP](https://mayeconcept.com.ng/post/different-type-of-loops-in-php)
 - [HTTP status codes for developers](https://mayeconcept.com.ng/post/http-status-codes-for-developers)
 - [Creating custom helper functions in Laravel](https://mayeconcept.com.ng/post/creating-custom-helper-functions-in-laravel)
-- [Creating multi authentication in laravel PHP framework 2022](https://mayeconcept.com.ng/post/creating-multi-authentication-in-laravel-php-framework-2022)
-- [Finding lasting solution to spamming in form](https://mayeconcept.com.ng/post/finding-lasting-solution-to-spamming-in-form)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
