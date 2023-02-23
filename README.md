@@ -41,6 +41,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My Laravel Passport REST Api Demo Application](https://mayeconcept.com.ng/post/my-laravel-passport-rest-api-demo-application)
 - [[Update] Laravel 10 return type error in Controller](https://mayeconcept.com.ng/post/update-laravel-10-return-type-error-in-controller)
 - [What is Laravel Stub](https://mayeconcept.com.ng/post/what-is-laravel-stub)
 - [[PHP] Paystack payment integration using webhook](https://mayeconcept.com.ng/post/php-paystack-payment-integration-using-webhook)
@@ -48,7 +49,6 @@
 - [Online course web application with Laravel and Vue Js](https://mayeconcept.com.ng/post/online-course-web-application-with-laravel-and-vue-js)
 - [Different Type of Loops in PHP](https://mayeconcept.com.ng/post/different-type-of-loops-in-php)
 - [HTTP status codes for developers](https://mayeconcept.com.ng/post/http-status-codes-for-developers)
-- [Creating custom helper functions in Laravel](https://mayeconcept.com.ng/post/creating-custom-helper-functions-in-laravel)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
