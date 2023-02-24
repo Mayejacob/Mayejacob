@@ -41,6 +41,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning javascript from scratch [Tutorial 1]](https://mayeconcept.com.ng/post/learning-javascript-from-scratch-tutorial-1)
 - [My Laravel Passport REST Api Demo Application](https://mayeconcept.com.ng/post/my-laravel-passport-rest-api-demo-application)
 - [[Update] Laravel 10 return type error in Controller](https://mayeconcept.com.ng/post/update-laravel-10-return-type-error-in-controller)
 - [What is Laravel Stub](https://mayeconcept.com.ng/post/what-is-laravel-stub)
@@ -48,7 +49,6 @@
 - [Paystack payment integration with laravel](https://mayeconcept.com.ng/post/paystack-payment-integration-with-laravel)
 - [Online course web application with Laravel and Vue Js](https://mayeconcept.com.ng/post/online-course-web-application-with-laravel-and-vue-js)
 - [Different Type of Loops in PHP](https://mayeconcept.com.ng/post/different-type-of-loops-in-php)
-- [HTTP status codes for developers](https://mayeconcept.com.ng/post/http-status-codes-for-developers)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
