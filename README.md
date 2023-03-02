@@ -27,9 +27,9 @@
 
 - 👯 I’m happy to collaborate on [New projects](https://mayeconcept.com.ng/contact)
 
-- 👨‍💻 All of my projects are available at [https://mayeconcept.com.ng/portfolio](https://mayeconcept.com.ng/portfolio)
+- 👨‍💻 All of my projects are available [Here](https://mayeconcept.com.ng/portfolio)
 
-- 📝 I regularly write articles on [https://mayeconcept.com.ng/blogs](https://mayeconcept.com.ng/blogs)
+- 📝 I regularly write articles on [web development](https://mayeconcept.com.ng/blogs)
 
 - 💬 Ask me about **PHP, Laravel, Vue Js, JavaScript, React, HTML, bootstrap, Node JS**
 
