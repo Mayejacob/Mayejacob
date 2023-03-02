@@ -14,16 +14,15 @@
 </div>
 <h1 align="center">Hi 👋, I'm Jacob Olorunmaye </h1>
 <h3 align="center">Hi there! I'm a skilled Laravel backend developer with over 3 years of experience in building web applications. I specialize in creating robust and scalable backends that power high-performance web applications.</h3>
+<h3 align="center"> My expertise lies in developing RESTful APIs, building custom authentication systems, integrating third-party services, and optimizing database performance. I'm proficient in Laravel's core features such as Eloquent ORM, Blade templating engine, and Artisan CLI.
+Aside from my technical skills, I'm also a strong team player who thrives in collaborative environments. I enjoy learning new technologies and staying up-to-date with the latest industry trends.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayejacob&label=Profile%20views&color=0e75b6&style=flat" alt="mayejacob" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayejacob" alt="mayejacob" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mayeconcept" target="blank"><img src="https://img.shields.io/twitter/follow/mayeconcept?logo=twitter&style=for-the-badge" alt="mayeconcept" /></a> </p>
-
-- My expertise lies in developing RESTful APIs, building custom authentication systems, integrating third-party services, and optimizing database performance. I'm proficient in Laravel's core features such as Eloquent ORM, Blade templating engine, and Artisan CLI.
-
-- Aside from my technical skills, I'm also a strong team player who thrives in collaborative environments. I enjoy learning new technologies and staying up-to-date with the latest industry trends.
 
 - 👯 I’m happy to collaborate on [New projects](https://mayeconcept.com.ng/contact)
 
