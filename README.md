@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1 align="center">Hi 👋, I'm Maye Jacob (Jayboss)</h1>
-<h3 align="center">I’m a creative developer, I've developed series of applications using different programming languages.</h3>
+<h1 align="center">Hi 👋, I'm Jacob Olorunmaye </h1>
+<h3 align="center">Hi there! I'm a skilled Laravel backend developer with over 3 years of experience in building web applications. I specialize in creating robust and scalable backends that power high-performance web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayejacob&label=Profile%20views&color=0e75b6&style=flat" alt="mayejacob" /> </p>
 
@@ -21,11 +21,11 @@
 
 <p align="left"> <a href="https://twitter.com/mayeconcept" target="blank"><img src="https://img.shields.io/twitter/follow/mayeconcept?logo=twitter&style=for-the-badge" alt="mayeconcept" /></a> </p>
 
-- 🔭 I’m currently working on [Latest Frameworks](https://mayeconcept.com.ng/portfolio)
+- My expertise lies in developing RESTful APIs, building custom authentication systems, integrating third-party services, and optimizing database performance. I'm proficient in Laravel's core features such as Eloquent ORM, Blade templating engine, and Artisan CLI.
 
-- 🌱 I’m currently learning **New frameworks**
+- Aside from my technical skills, I'm also a strong team player who thrives in collaborative environments. I enjoy learning new technologies and staying up-to-date with the latest industry trends.
 
-- 👯 I’m happy to collaborate on [New projects](https://mayeconcept.com.ng)
+- 👯 I’m happy to collaborate on [New projects](https://mayeconcept.com.ng/contact)
 
 - 👨‍💻 All of my projects are available at [https://mayeconcept.com.ng/portfolio](https://mayeconcept.com.ng/portfolio)
 
@@ -36,8 +36,6 @@
 - 📫 How to reach me **mayejacob3@gmail.com**
 
 - 📄 Know about my experiences [https://mayeconcept.com.ng/portfolio](https://mayeconcept.com.ng/portfolio)
-
-- ⚡ Fun fact **I think i'm funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
