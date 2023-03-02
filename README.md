@@ -13,7 +13,7 @@
   </a>
 </div>
 <h1 align="center">Hi 👋, I'm Jacob Olorunmaye </h1>
-<h3 align="">I'm a skilled Laravel backend developer with over 3 years of experience in building web applications. I specialize in creating robust and scalable backends that power high-performance web applications. <br>
+<h3 align="center">I'm a skilled Laravel backend developer with over 3 years of experience in building web applications. I specialize in creating robust and scalable backends that power high-performance web applications. <br>
  My expertise lies in developing RESTful APIs, building custom authentication systems, integrating third-party services, and optimizing database performance. I'm proficient in Laravel's core features such as Eloquent ORM, Blade templating engine, and Artisan CLI.<br>
 Aside from my technical skills, I'm also a strong team player who thrives in collaborative environments. I enjoy learning new technologies and staying up-to-date with the latest industry trends.
 </h3>
