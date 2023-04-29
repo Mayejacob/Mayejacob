@@ -38,6 +38,7 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Create Helper Functions in Laravel 10](https://mayeconcept.com.ng/post/how-to-create-helper-functions-in-laravel-10)
 - [A Guide to Understanding Accessors and Mutators in Laravel](https://mayeconcept.com.ng/post/a-guide-to-understanding-accessors-and-mutators-in-laravel)
 - [Learning javascript from scratch [Tutorial 1]](https://mayeconcept.com.ng/post/learning-javascript-from-scratch-tutorial-1)
 - [My Laravel Passport REST Api Demo Application](https://mayeconcept.com.ng/post/my-laravel-passport-rest-api-demo-application)
@@ -45,7 +46,6 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 - [What is Laravel Stub](https://mayeconcept.com.ng/post/what-is-laravel-stub)
 - [[PHP] Paystack payment integration using webhook](https://mayeconcept.com.ng/post/php-paystack-payment-integration-using-webhook)
 - [Paystack payment integration with laravel](https://mayeconcept.com.ng/post/paystack-payment-integration-with-laravel)
-- [Online course web application with Laravel and Vue Js](https://mayeconcept.com.ng/post/online-course-web-application-with-laravel-and-vue-js)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
