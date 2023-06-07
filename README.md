@@ -38,14 +38,14 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Data Type in Migrations: Simplify Your Database Constraints](https://mayeconcept.com.ng/post/data-type-in-migrations-simplify-your-database-constraints)
-- [Enum Data Type in Laravel Migrations: Simplify Your Database Constraints](https://mayeconcept.com.ng/post/enum-data-type-in-laravel-migrations-simplify-your-database-constraints)
-- [Data Type in Laravel Migrations: Simplify Your Database Constraints](https://mayeconcept.com.ng/post/data-type-in-laravel-migrations-simplify-your-database-constraints)
-- [Data Type in Laravel Migrations: Simplify Your Database Constraints](https://mayeconcept.com.ng/post/data-type-in-laravel-migrations-simplify-your-database-constraints)
 - [Working with Enum Data Type in Laravel Migrations: Simplify Your Database Constraints](https://mayeconcept.com.ng/post/working-with-enum-data-type-in-laravel-migrations-simplify-your-database-constraints)
 - [Data Types in Laravel Migration: Understanding the Basics](https://mayeconcept.com.ng/post/data-types-in-laravel-migration-understanding-the-basics)
 - [Understanding Class Property and Method Visibility in Laravel: A Comprehensive Guide](https://mayeconcept.com.ng/post/understanding-class-property-and-method-visibility-in-laravel-a-comprehensive-guide)
 - [How to Create Helper Functions in Laravel 10](https://mayeconcept.com.ng/post/how-to-create-helper-functions-in-laravel-10)
+- [A Guide to Understanding Accessors and Mutators in Laravel](https://mayeconcept.com.ng/post/a-guide-to-understanding-accessors-and-mutators-in-laravel)
+- [Learning javascript from scratch [Tutorial 1]](https://mayeconcept.com.ng/post/learning-javascript-from-scratch-tutorial-1)
+- [My Laravel Passport REST Api Demo Application](https://mayeconcept.com.ng/post/my-laravel-passport-rest-api-demo-application)
+- [[Update] Laravel 10 return type error in Controller](https://mayeconcept.com.ng/post/update-laravel-10-return-type-error-in-controller)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
