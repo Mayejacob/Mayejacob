@@ -38,6 +38,7 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Laravel Action Classes for Efficient Development](https://mayeconcept.com.ng/post/mastering-laravel-action-classes-for-efficient-development)
 - [Exploring Laravel Service Classes: Logic for Reusability and Maintainability](https://mayeconcept.com.ng/post/exploring-laravel-service-classes-logic-for-reusability-and-maintainability)
 - [Working with Enum Data Type in Laravel Migrations: Simplify Your Database Constraints](https://mayeconcept.com.ng/post/working-with-enum-data-type-in-laravel-migrations-simplify-your-database-constraints)
 - [Data Types in Laravel Migration: Understanding the Basics](https://mayeconcept.com.ng/post/data-types-in-laravel-migration-understanding-the-basics)
@@ -45,7 +46,6 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 - [How to Create Helper Functions in Laravel 10](https://mayeconcept.com.ng/post/how-to-create-helper-functions-in-laravel-10)
 - [A Guide to Understanding Accessors and Mutators in Laravel](https://mayeconcept.com.ng/post/a-guide-to-understanding-accessors-and-mutators-in-laravel)
 - [Learning javascript from scratch [Tutorial 1]](https://mayeconcept.com.ng/post/learning-javascript-from-scratch-tutorial-1)
-- [My Laravel Passport REST Api Demo Application](https://mayeconcept.com.ng/post/my-laravel-passport-rest-api-demo-application)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
