@@ -38,6 +38,7 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Laravel Observers to Improve Your Application](https://mayeconcept.com.ng/post/how-to-use-laravel-observers-to-improve-your-application)
 - [Mastering Laravel Action Classes for Efficient Development](https://mayeconcept.com.ng/post/mastering-laravel-action-classes-for-efficient-development)
 - [Exploring Laravel Service Classes: Logic for Reusability and Maintainability](https://mayeconcept.com.ng/post/exploring-laravel-service-classes-logic-for-reusability-and-maintainability)
 - [Working with Enum Data Type in Laravel Migrations: Simplify Your Database Constraints](https://mayeconcept.com.ng/post/working-with-enum-data-type-in-laravel-migrations-simplify-your-database-constraints)
@@ -45,7 +46,6 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 - [Understanding Class Property and Method Visibility in Laravel: A Comprehensive Guide](https://mayeconcept.com.ng/post/understanding-class-property-and-method-visibility-in-laravel-a-comprehensive-guide)
 - [How to Create Helper Functions in Laravel 10](https://mayeconcept.com.ng/post/how-to-create-helper-functions-in-laravel-10)
 - [A Guide to Understanding Accessors and Mutators in Laravel](https://mayeconcept.com.ng/post/a-guide-to-understanding-accessors-and-mutators-in-laravel)
-- [Learning javascript from scratch [Tutorial 1]](https://mayeconcept.com.ng/post/learning-javascript-from-scratch-tutorial-1)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
