@@ -38,7 +38,6 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Quam sunt et eiusmod](https://mayeconcept.com.ng/post/quam-sunt-et-eiusmod)
 - [How to Choose the Right Return Type in Laravel](https://mayeconcept.com.ng/post/how-to-choose-the-right-return-type-in-laravel)
 - [How to Use Laravel Observers to Improve Your Application](https://mayeconcept.com.ng/post/how-to-use-laravel-observers-to-improve-your-application)
 - [Mastering Laravel Action Classes for Efficient Development](https://mayeconcept.com.ng/post/mastering-laravel-action-classes-for-efficient-development)
@@ -46,6 +45,7 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 - [Working with Enum Data Type in Laravel Migrations: Simplify Your Database Constraints](https://mayeconcept.com.ng/post/working-with-enum-data-type-in-laravel-migrations-simplify-your-database-constraints)
 - [Data Types in Laravel Migration: Understanding the Basics](https://mayeconcept.com.ng/post/data-types-in-laravel-migration-understanding-the-basics)
 - [Understanding Class Property and Method Visibility in Laravel: A Comprehensive Guide](https://mayeconcept.com.ng/post/understanding-class-property-and-method-visibility-in-laravel-a-comprehensive-guide)
+- [How to Create Helper Functions in Laravel 10](https://mayeconcept.com.ng/post/how-to-create-helper-functions-in-laravel-10)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
