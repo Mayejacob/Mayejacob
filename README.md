@@ -1,22 +1,31 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/olorunmaye-jacob-5787601a9">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@mayeconcept">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.twitter.com/mayeconcept">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<h1 align="center">Hi 👋, I'm Jacob Olorunmaye </h1>
-<h3 align="center">I'm a skilled Laravel backend developer with over 3 years of experience in building web applications. I specialize in creating robust and scalable backends that power high-performance web applications. <br>
- My expertise lies in developing RESTful APIs, building custom authentication systems, integrating third-party services, and optimizing database performance. I'm proficient in Laravel's core features such as Eloquent ORM, Blade templating engine, and Artisan CLI.
-Aside from my technical skills, I'm also a strong team player who thrives in collaborative environments. I enjoy learning new technologies and staying up-to-date with the latest industry trends.
-</h3>
+# Hi there! 👋 I'm Jacob Olorunmaye
+
+I'm an experienced backend developer with a passion for crafting robust and scalable solutions. With over four years in the industry, I specialize in PHP frameworks, particularly Laravel, and boast a solid foundation in Golang, contributing to my versatility in backend technologies.
+
+## 🚀 Expertise
+
+- **Backend Development:** Proficient in architecting and developing high-performance web applications.
+- **PHP (Laravel):** Extensive experience in leveraging Laravel to create reliable and scalable solutions.
+- **Golang:** Solid foundation contributing to versatility in addressing diverse backend requirements.
+
+## 💼 Professional Highlights
+
+- **Continuous Learning:** Committed to ongoing skill enhancement to stay at the forefront of emerging technologies and industry trends.
+- **Collaborative Approach:** Effective team player, fostering an environment where collective efforts lead to project success.
+- **Scalability Solutions:** Adept at architecting and implementing scalable solutions for dynamic web projects.
+
+## 🌱 Currently Exploring
+
+- Further advancements in Golang to enhance backend capabilities.
+- Exploring new tools and technologies to enrich the development toolkit.
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/jacob-olorunmaye-5787601a9)
+- [Twitter](https://twitter.com/mayeconcept)
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions. Let's create innovative solutions together!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayejacob&label=Profile%20views&color=0e75b6&style=flat" alt="mayejacob" /> </p>
 
@@ -24,18 +33,10 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 
 <p align="left"> <a href="https://twitter.com/mayeconcept" target="blank"><img src="https://img.shields.io/twitter/follow/mayeconcept?logo=twitter&style=for-the-badge" alt="mayeconcept" /></a> </p>
 
-- 👯 I’m happy to collaborate on [New projects](https://mayeconcept.com.ng/contact)
-
-- 👨‍💻 All of my projects are available [Here](https://mayeconcept.com.ng/portfolio)
-
 - 📝 I regularly write articles on [web development](https://mayeconcept.com.ng/blogs)
-
-- 💬 Ask me about **PHP, Laravel, Vue Js, JavaScript, React, HTML, bootstrap, Node JS**
-
+- 
 - 📫 How to reach me **mayejacob3@gmail.com**
-
-- 📄 Know about my experiences [https://mayeconcept.com.ng/portfolio](https://mayeconcept.com.ng/portfolio)
-
+- 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Choose the Right Return Type in Laravel](https://mayeconcept.com.ng/post/how-to-choose-the-right-return-type-in-laravel)
@@ -58,9 +59,6 @@ Aside from my technical skills, I'm also a strong team player who thrives in col
 <a href="https://www.youtube.com/@mayeconcept" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mayeconcept" height="30" width="40" /></a>
 <a href="/www.mayeconcept.com.ng/rss-feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.mayeconcept.com.ng/rss" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayejacob&show_icons=true&locale=en&layout=compact" alt="mayejacob" /></p>
 
