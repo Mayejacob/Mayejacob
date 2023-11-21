@@ -23,20 +23,12 @@ I'm an experienced backend developer with a passion for crafting robust and scal
 
 - [LinkedIn](https://www.linkedin.com/in/jacob-olorunmaye-5787601a9)
 - [Twitter](https://twitter.com/mayeconcept)
+- 📝 I regularly write articles on [web development](https://mayeconcept.com.ng/blogs)
+- 📫 How to reach me **mayejacob3@gmail.com**
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or discussions. Let's create innovative solutions together!
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayejacob&label=Profile%20views&color=0e75b6&style=flat" alt="mayejacob" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayejacob" alt="mayejacob" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mayeconcept" target="blank"><img src="https://img.shields.io/twitter/follow/mayeconcept?logo=twitter&style=for-the-badge" alt="mayeconcept" /></a> </p>
-
-- 📝 I regularly write articles on [web development](https://mayeconcept.com.ng/blogs)
-- 
-- 📫 How to reach me **mayejacob3@gmail.com**
-- 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Choose the Right Return Type in Laravel](https://mayeconcept.com.ng/post/how-to-choose-the-right-return-type-in-laravel)
